@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Manjunath</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/mnjm/mnjm/main/wave.gif" width="30"/>, I'm Manjunath</h1>
 
 ### About Me
-- I am currently working on Computer Vision, Machine Learning related projects. Sometimes on linux/foss stuff
+- I’m an AI Engineer specializing in Computer Vision and NLP. I also code and contribute to FOSS projects occasionally.
 - Personal Site: [mnjm.github.io](https://mnjm.github.io/)
 - Email: [manjunat.mohan@gmail.com](mailto:manjunat.mohan@gmail.com)
